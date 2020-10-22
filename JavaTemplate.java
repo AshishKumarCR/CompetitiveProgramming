@@ -63,6 +63,7 @@ public class Sols{
 			while(t-->0)
 			{
 				int n=s.nextInt();
+				System.out.println("This is my Fast Scanner java template");
 				
 			}
 		}
